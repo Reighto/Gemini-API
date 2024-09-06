@@ -34,8 +34,9 @@ pip install -r requirements.txt
 ### Step 4: Set Up Your API Key
 
 To use the Gemini API, you'll need an API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
-```
+
 Option 1: Set Up API Key via Environment Variable
+```
 export API_KEY="your_api_key_here"  # For Unix/Linux/MacOS
 set API_KEY="your_api_key_here"     # For Windows
 ```
